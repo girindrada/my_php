@@ -1,6 +1,10 @@
 Nama      Hadir   Telat   Izin    Alpa    Persentase
 ----------------------------------------------------
 Citra     2       1       2       0       66.7%
+
 Andi      3       1       0       1       60%
+
 Budi      3       4       0       0       42.9%
-Girin     0       1       0       0       0%
+
+Girin     0       1       0       3       0%
+Perlu Perhatian!!!

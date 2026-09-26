@@ -66,6 +66,12 @@ foreach($rekap as $nama => $data){
         . $data["Persentase"] . "%"
         . "\n";
 
+        if($data["Alpa"] > 2){
+            $baris .= "Perlu Perhatian!!!";
+        }
+
+        $baris .= "\n";
+
         echo $baris;
         fwrite($file_laporan, $baris);
 }
