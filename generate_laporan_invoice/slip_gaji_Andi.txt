@@ -1,0 +1,10 @@
+SLIP GAJI KARYAWAN
+==============================
+Nama           : Andi
+Jabatan        : Staff Admin
+------------------------------
+Gaji Pokok     : 5.000.000
+Tunjangan      : 500.000
+Potongan       : 150.000
+------------------------------
+Gaji Bersih    : Rp 5.350.000

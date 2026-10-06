@@ -1,0 +1,10 @@
+SLIP GAJI KARYAWAN
+==============================
+Nama           : Budi
+Jabatan        : Supervisor
+------------------------------
+Gaji Pokok     : 7.500.000
+Tunjangan      : 800.000
+Potongan       : 250.000
+------------------------------
+Gaji Bersih    : Rp 8.050.000

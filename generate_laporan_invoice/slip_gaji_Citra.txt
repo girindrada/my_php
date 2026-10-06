@@ -1,0 +1,10 @@
+SLIP GAJI KARYAWAN
+==============================
+Nama           : Citra
+Jabatan        : Staff Keuangan
+------------------------------
+Gaji Pokok     : 5.500.000
+Tunjangan      : 500.000
+Potongan       : 180.000
+------------------------------
+Gaji Bersih    : Rp 5.820.000

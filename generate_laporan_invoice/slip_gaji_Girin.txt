@@ -1,0 +1,10 @@
+SLIP GAJI KARYAWAN
+==============================
+Nama           : Girin
+Jabatan        : Staff IT
+------------------------------
+Gaji Pokok     : 5.500.000
+Tunjangan      : 520.000
+Potongan       : 180.000
+------------------------------
+Gaji Bersih    : Rp 5.840.000
